@@ -28,6 +28,4 @@ Based on the analysis of the customer support data, the following key findings h
 
 *   **Addition Research:** From extended analysis of the supervisors of >90 Tenure Bucket and the worse perfoming agents in that category the supervisors and agents who should be trained the most have been marked and once they are taken care of, the overall CSAT scores should see improvement
 
--
-
 In conclusion, improving CSAT scores requires a multi-faceted approach focusing on reducing response times, optimizing the email channel, providing targeted training and support to lower-performing agents and those in training, potentially adjusting agent shifts based on performance, emphasizing quality of resolution over speed, and providing effective supervision, especially for experienced agents who may be contributing to low scores with quick handling times.
