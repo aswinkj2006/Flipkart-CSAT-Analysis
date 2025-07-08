@@ -1,7 +1,6 @@
 # Flipkart CSAT Analysis based on the given Customer Service Data CSV
 
-## The given data was analyzed thoroughly using Python with the help of libraries like Matplotlib and Seaborn.
-## Analysis was done mainly on the Agents, Managers, Supervisors and their Tenure Buckets, Shifts, Response Times etc.
+### The given data was analyzed thoroughly using Python with the help of libraries like Matplotlib and Seaborn. THe analysis was done mainly on the Agents, Managers, Supervisors and their Tenure Buckets, Shifts, Response Times etc.
 
 ## Heres the summary of the analysis.
 
